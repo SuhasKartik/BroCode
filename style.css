@@ -12,7 +12,7 @@ body {
 .header {
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(pics/ayka.jpeg.jpg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(./pics/ayka.jpeg.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -425,7 +425,7 @@ h4 {
     font-family: 'Arial', sans-serif;
     min-height: 20vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(pics/tutta.jpeg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(./pics/tutta.jpeg);
     background-position: center;
     background-size: cover;
     position:center;
@@ -514,7 +514,7 @@ h4 {
 .sub-header{
     height: 50vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(pics/syha.jpeg);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(./pics/syha.jpeg);
     background-position: center;
     background-size: cover;
     text-align: center;
@@ -560,7 +560,7 @@ h4 {
     font-family: 'Arial', sans-serif;
     min-height: 20vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(pics/tutta.jpeg);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(./pics/tutta.jpeg);
     background-position: center;
     background-size: cover;
     position:center;
